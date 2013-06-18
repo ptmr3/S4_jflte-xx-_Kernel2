@@ -34,7 +34,7 @@
 
 //KT Specifics
 int GLOBALKT_MIN_FREQ_LIMIT = 81000;
-int GLOBALKT_MAX_FREQ_LIMIT = 1890000;
+int GLOBALKT_MAX_FREQ_LIMIT = 2322000;
 
 static unsigned int vfreq_lock = 0;
 static bool vfreq_lock_tempOFF = false;
